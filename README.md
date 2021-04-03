@@ -1,0 +1,1 @@
+# MIPS-Program-finds-sum-of-elements-in-a-given-array
